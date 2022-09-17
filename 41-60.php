@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>PHP still suck.</title>
-</head>
 <body>
 
 
